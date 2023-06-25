@@ -9,6 +9,7 @@ chk_root
 mkdir .ark-script-cache
 cd .ark-script-cache
 git clone https://github.com/Arkapravo-Ghosh/ark-plymouth-theme.git ark-breeze
+rm -rf /usr/share/plymouth/themes/ark-breeze
 cp -r ark-breeze /usr/share/plymouth/themes/
 plymouth-set-default-theme -R ark-breeze
 cd ..
