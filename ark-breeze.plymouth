@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Ark Logo
+Description=Ark Logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ark-breeze
+ScriptFile=/usr/share/plymouth/themes/ark-breeze/script
