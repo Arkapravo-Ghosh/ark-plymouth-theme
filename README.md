@@ -2,9 +2,9 @@
 
 ## Screenshot
 
-<center>
-    <img width=600 src="docs/screenshot.png" />
-</center>
+<div align=center>
+    <img width=600 src="docs/images/screenshot.png" />
+</div>
 
 ## Installation
 
